@@ -1,3 +1,8 @@
+---
+layout: post
+title: "First Post"
+---
+
 # Hello, world!
 
 **bold** *italic* ***both***
